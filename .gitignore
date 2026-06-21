@@ -1,0 +1,7 @@
+~$*.docx
+~$*.doc
+*.log
+*.sqlite
+.env
+.vscode/
+node_modules/
