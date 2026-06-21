@@ -9,6 +9,7 @@
 |--------------|------------------------------------|--------------------------------|
 | 241UC240P4   | Al-Maweri Yousef Mohammed Abdullah | Lead Full-Stack Developer      |
 | 241UC2400T   | Bara Samih Jamal Yousef            | Lead Systems & Security Developer |
+| 241UC240T4   | Abdulmalik Babiker Fadlalmula Hussain| Backend & Operations Developer |
 
 ---
 
@@ -61,10 +62,14 @@ assignment/
 │   ├── header.php           Shared header via PHP include
 │   └── footer.php           Shared footer via PHP include
 ├── index.php                Home — restaurant listing & search
+├── about.php                Platform description
 ├── restaurant.php           Restaurant detail & menu page
 ├── auth.php                 Login & Registration
 ├── checkout.php             Cart checkout & order placement
 ├── dashboard.php            Role-based dashboard (customer/partner/admin)
+├── menu.php                 Partner: full-page menu CRUD + availability toggle
+├── orders.php               Customer: full order history with itemised breakdown
+├── reports.php              Admin: analytics (stats, top restaurants, order breakdown)
 ├── profile.php              User profile management
 ├── team.php                 Group members page (required by rubric)
 ├── config.php               DB connection (auto-detects port)
