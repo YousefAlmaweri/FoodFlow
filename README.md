@@ -3,7 +3,7 @@
 
 ---
 
-## 👥 Group Members
+##  Group Members
 
 | Student ID   | Name                               | Role                           |
 |--------------|------------------------------------|--------------------------------|
@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙️ Installation (XAMPP — Windows)
+##  Installation (XAMPP — Windows)
 
 ### Step 1 — Copy files
 Copy the `assignment/` folder to:
@@ -40,7 +40,7 @@ http://localhost/assignment/index.php
 
 ---
 
-## 🔑 Login Credentials
+##  Login Credentials
 
 | Role | Email | Password |
 |------|-------|----------|
@@ -51,7 +51,7 @@ http://localhost/assignment/index.php
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 assignment/
@@ -80,7 +80,7 @@ assignment/
 
 ---
 
-## 🔐 Security
+##  Security
 
 | Threat | Fix |
 |--------|-----|
